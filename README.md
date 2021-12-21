@@ -18,11 +18,12 @@ Download source code dari repositori dan buka menggunakan vscode kemudian run pr
 
 ## Screenshots
 
-![1](https://github.com/fajariyoshi/GameMbata/blob/main/Screenshot%20(130).png)
 *Tampilan Awal*
+![1](https://github.com/fajariyoshi/GameMbata/blob/main/Screenshot%20(129).png)
 
-![2](https://github.com/fajariyoshi/GameMbata/blob/main/Screenshot%20(130).png)
 *Tampilan Game Play*
+![2](https://github.com/fajariyoshi/GameMbata/blob/main/Screenshot%20(130).png)
+
 
 ## Prasyarat
 * [Python](https://www.python.org)
